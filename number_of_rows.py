@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("D:\\New folder\\week 6\\2GB\\en-fr.csv", engine="python")
+df = pd.read_csv("D:\\New folder\\week 6\\2GB\\en-fr.csv")
 
 num_rows = len(df)
 
